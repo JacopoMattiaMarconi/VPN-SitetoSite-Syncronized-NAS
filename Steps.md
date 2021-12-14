@@ -14,9 +14,16 @@ Per la creazione del seguente progetto avremo bisogno di:
 
 # CREAZIONE VPN SITE TO SITE
 L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:
+
+### SITO A
 >            ip privato locale: 192.168.20.0/24
 >            ip pubblico locale 82.85.93.37
 
+### SITO B
 >            ip privato remoto: 192.168.100.0/24
 >            ip pubblico remoto: 95.249.68.86
-[]
+
+### Le impostazioni seguenti si riferiscono al Mikrotik del SITO A
+![](/Immagini/1.PNG)
+![](/Immagini/2.PNG)
+![](/Immagini/3.PNG)
