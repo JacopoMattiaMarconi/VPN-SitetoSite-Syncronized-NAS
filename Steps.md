@@ -34,7 +34,7 @@ L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:
 ![](/Immagini/6.PNG)
 ![](/Immagini/7.PNG)
 
-# SINCRONIZZAZIONE DI UNA CARTELLA CONDIVISA TRA NAS
+# SINCRONIZZAZIONE NAS
 ![](/Immagini/a.PNG)
 ![](/Immagini/b.PNG)
 ![](/Immagini/c.PNG)
