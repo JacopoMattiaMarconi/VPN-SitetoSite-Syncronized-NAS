@@ -27,3 +27,9 @@ L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:
 ![](/Immagini/1.PNG)
 ![](/Immagini/2.PNG)
 ![](/Immagini/3.PNG)
+![](/Immagini/4.PNG)
+![](/Immagini/5.PNG)
+
+### checkpoint :white_check_mark: <br>
+![](/Immagini/6.PNG)
+![](/Immagini/7.PNG)
