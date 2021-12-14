@@ -33,3 +33,8 @@ L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:
 ### checkpoint :white_check_mark: <br>
 ![](/Immagini/6.PNG)
 ![](/Immagini/7.PNG)
+
+# SINCRONIZZAZIONE DI UNA CARTELLA CONDIVISA TRA NAS
+![](/Immagini/a.PNG)
+![](/Immagini/b.PNG)
+![](/Immagini/c.PNG)
